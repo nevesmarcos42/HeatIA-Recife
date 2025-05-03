@@ -45,4 +45,5 @@ Abra mapa_acidentes_2025.html no navegador para explorar os locais de maior risc
 
 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se livre para abrir um Pull Request com melhorias no código ou sugestões para novos recursos.
+
 📩 Contato: Caso tenha dúvidas ou sugestões, entre em contato via Issues ou diretamente no GitHub! 🚀
