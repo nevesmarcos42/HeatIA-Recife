@@ -28,7 +28,7 @@ Tecnologias e Ferramentas
 Como Executar o Projeto
 
 1️⃣ Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/nevesmarcos42/HeatIA-Recife/edit/main/README.md
 cd seu-repositorio
 
 
