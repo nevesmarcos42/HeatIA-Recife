@@ -45,13 +45,19 @@ python treinar_modelo.py
 Abra mapa_acidentes_2025.html no navegador para explorar os locais de maior risco.
 
 Resultados Obtidos
+
 ✅ Modelo preditivo ajustado para prever acidentes em Recife.
+
 ✅ Mapas interativos destacando hotspots de acidentes.
+
 ✅ Classificação de riscos, permitindo tomadas de decisão mais estratégicas.
 
 Próximos Passos
+
 📌 Melhorar o modelo com novas variáveis
+
 📌 Ampliar a análise para outras cidades
+
 📌 Integrar dados de clima e tráfego
 
 Contribuições
