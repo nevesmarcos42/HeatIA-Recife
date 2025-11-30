@@ -7,58 +7,58 @@ Este projeto foi desenvolvido para analisar padrões históricos de acidentes e 
 
  Objetivos
  
-✅ Treinar um modelo preditivo para estimar acidentes em Recife em 2025.
+ Treinar um modelo preditivo para estimar acidentes em Recife em 2025.
 
-✅ Criar um mapa de calor interativo exibindo os locais de maior risco.
+ Criar um mapa de calor interativo exibindo os locais de maior risco.
 
-✅ Classificar os acidentes previstos em diferentes níveis de severidade.
+ Classificar os acidentes previstos em diferentes níveis de severidade.
 
-✅ Gerar insights para políticas públicas e ações de prevenção no trânsito.
+ Gerar insights para políticas públicas e ações de prevenção no trânsito.
 
 Tecnologias e Ferramentas
 
-📌 Linguagem: Python
+ Linguagem: Python
 
-📌 Frameworks: PyTorch, Scikit-Learn
+ Frameworks: PyTorch, Scikit-Learn
 
-📌 Bibliotecas: Pandas, NumPy, Folium, Geopy
+ Bibliotecas: Pandas, NumPy, Folium, Geopy
 
-📌 Visualização: Mapas de Calor Interativos
+ Visualização: Mapas de Calor Interativos
 
 Como Executar o Projeto
 
-1️⃣ Clone o repositório:
+1️ Clone o repositório:
 git clone https://github.com/nevesmarcos42/HeatIA-Recife
 
 cd HeatIA-Recife
 
 
-2️⃣ Instale as dependências:
+2️ Instale as dependências:
 pip install -r requirements.txt
 
 
-3️⃣ Execute o modelo de previsão:
+3️ Execute o modelo de previsão:
 python treinar_modelo.py
 
 
-4️⃣ Visualize os mapas de calor:
+4️ Visualize os mapas de calor:
 Abra mapa_acidentes_2025.html no navegador para explorar os locais de maior risco.
 
 Resultados Obtidos
 
-✅ Modelo preditivo ajustado para prever acidentes em Recife.
+ Modelo preditivo ajustado para prever acidentes em Recife.
 
-✅ Mapas interativos destacando hotspots de acidentes.
+ Mapas interativos destacando hotspots de acidentes.
 
-✅ Classificação de riscos, permitindo tomadas de decisão mais estratégicas.
+ Classificação de riscos, permitindo tomadas de decisão mais estratégicas.
 
 Próximos Passos
 
-📌 Melhorar o modelo com novas variáveis
+ Melhorar o modelo com novas variáveis
 
-📌 Ampliar a análise para outras cidades
+ Ampliar a análise para outras cidades
 
-📌 Integrar dados de clima e tráfego
+ Integrar dados de clima e tráfego
 
 Contribuições
 Contribuições são bem-vindas! Sinta-se livre para abrir um Pull Request com melhorias no código ou sugestões para novos recursos.
